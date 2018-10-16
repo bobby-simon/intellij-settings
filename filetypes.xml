@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="14">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.bundle;.git;.hg;.svn;.tox;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping pattern="LambdaHandler" type="CLASS" />
+      <mapping ext="pug" type="Jade" />
+      <mapping pattern="V20180807075201_create_destination_popular_months_table.sql" type="PLAIN_TEXT" />
+      <mapping pattern="testFile" type="PLAIN_TEXT" />
+      <mapping pattern="FlickrPhotoFixture" type="PLAIN_TEXT" />
+      <mapping ext="tsv" type="PLAIN_TEXT" />
+      <mapping ext="factories" type="PLAIN_TEXT" />
+      <mapping ext="avro" type="PLAIN_TEXT" />
+      <mapping ext="avsc" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>
