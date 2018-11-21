@@ -14,6 +14,10 @@
           <option name="url" value="https://github.com/alexdmiller/algoplex_3.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://ewegithub.sb.karmalab.net/EWE/affinity-prime-emr-datapipeline.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/src/github" />
