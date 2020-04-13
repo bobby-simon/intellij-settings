@@ -3,8 +3,10 @@
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;vssver.scc;vssver2.scc;" />
     <extensionMap>
       <mapping pattern="LambdaHandler" type="CLASS" />
+      <mapping pattern="DeferredMonitoringEventTableItem" type="CLASS" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="DeferredMonitoringEventTableItem.java" type="JAVA" />
       <mapping pattern="FlickrPhotoFixture" type="PLAIN_TEXT" />
       <mapping pattern="testFile" type="PLAIN_TEXT" />
       <mapping pattern="V20180807075201_create_destination_popular_months_table.sql" type="PLAIN_TEXT" />
